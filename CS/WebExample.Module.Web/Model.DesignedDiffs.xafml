@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <SchemaModules>
+    <SchemaModule Name="SystemAspNetModule" Version="13.2.6.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="13.2.6.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <ListView Id="DomainObject1_ListView" EditorTypeName="WebExample.Module.Web.MultiEditASPxGridListEditor">
+      <Columns>
+        <ColumnInfo Id="Name" SortOrder="Ascending" />
+      </Columns>
+    </ListView>
+  </Views>
+</Application>
