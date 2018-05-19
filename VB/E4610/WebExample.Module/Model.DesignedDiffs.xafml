@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application Title="WebExample" Logo="ExpressAppLogo">
+	<SchemaModules IsNewNode="True">
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.HideActionsViewController" Version="9.1.5.0" IsNewNode="True" />
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.ShowNavigationItemController" Version="9.1.5.0" IsNewNode="True" />
+		<SchemaModule Name="SystemModule" Version="9.1.5.0" IsNewNode="True" />
+	</SchemaModules>
+	<Views>
+		<ListView ID="DomainObject1_ListView">
+			<Columns>
+				<ColumnInfo PropertyName="Index" SortIndex="0" SortOrder="Ascending" />
+				<ColumnInfo PropertyName="Name" SortIndex="" SortOrder="None" />
+			</Columns>
+		</ListView>
+	</Views>
+</Application>
