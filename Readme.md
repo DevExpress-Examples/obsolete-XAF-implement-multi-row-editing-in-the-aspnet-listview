@@ -1,17 +1,9 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/134075694/12.2.7%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E4610)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
 * **[MultiRowEditingController.cs](./CS/WebExample.Module.Web/MultiRowEditingController.cs) (VB: [MultiRowEditingController.vb](./VB/WebExample.Module.Web/MultiRowEditingController.vb))**
 <!-- default file list end -->
 # OBSOLETE - How to implement multi-row editing in the ASP.NET ListView
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4610)**
-<!-- run online end -->
 
 
 <p><strong>NOTE:</strong> Starting with version 15.2, our ASPxGridListEditor supports the <a href="https://documentation.devexpress.com/AspNet/CustomDocument16443.aspx">Batch Edit Mode</a> out of the box. To enable it, set the IModelListView.AllowEdit property to True and the IModelListViewWeb.InlineEditMode property to Batch in the Model Editor, as described in the <a href="https://documentation.devexpress.com/eXpressAppFramework/CustomDocument113249.aspx">List View Edit Modes</a> topic.</p>
